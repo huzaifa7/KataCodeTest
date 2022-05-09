@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiamondMakerApp", "DiamondMakerApp\DiamondMakerApp.csproj", "{5C6D88C4-A1D2-46E0-9E6E-E195030BDC6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiamondMakerApp.UnitTests", "DiamondMakerApp.UnitTests\DiamondMakerApp.UnitTests.csproj", "{D0121152-0273-42EF-A2CC-7C47F53BDDA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C6D88C4-A1D2-46E0-9E6E-E195030BDC6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6D88C4-A1D2-46E0-9E6E-E195030BDC6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6D88C4-A1D2-46E0-9E6E-E195030BDC6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6D88C4-A1D2-46E0-9E6E-E195030BDC6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0121152-0273-42EF-A2CC-7C47F53BDDA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0121152-0273-42EF-A2CC-7C47F53BDDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0121152-0273-42EF-A2CC-7C47F53BDDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0121152-0273-42EF-A2CC-7C47F53BDDA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1E9D05B-AF08-42F9-9597-5F9DD0B58B94}
+	EndGlobalSection
+EndGlobal
